@@ -25,5 +25,5 @@ Following API's are used.
   * Fetching random articles using pageId
       * https://en.wikipedia.org/w/api.php?action=query&list=random&format=json&rnnamespace=0&rnlimit=10
       
-  * Fetching Top Live News India
+  * Fetching Top Live News in India
       * https://newsapi.org/v2/top-headlines?country=in&apiKey=f4bc54e7e76b48f19915f5424b1156cc
