@@ -17,16 +17,13 @@ Following API's are used.
       * https://en.wikipedia.org/w/api.php?action=query&format=json&prop=pageimages%7Cpageterms&generator=prefixsearch&redirects=1&formatversion=2&piprop=thumbnail&pithumbsize=50&pilimit=10&wbptterms=description&gpslimit=$10&gpssearch=$albert&gpsoffset=0
       
   * Fetching wikipedia article page using pageId
-      https://en.wikipedia.org/w/api.php?
-      action=query&prop=info&inprop=url&format=json&pageids=$717
+      * https://en.wikipedia.org/w/api.php?action=query&prop=info&inprop=url&format=json&pageids=$717
       
   * Fetching summary of Wikipedia article 
-      https://en.wikipedia.org/w/api.php?
-      format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&pageids=717
+      * https://en.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&pageids=717
      
   * Fetching random articles using pageId
-      https://en.wikipedia.org/w/api.php?
-      action=query&list=random&format=json&rnnamespace=0&rnlimit=10
+      * https://en.wikipedia.org/w/api.php?action=query&list=random&format=json&rnnamespace=0&rnlimit=10
       
   * Fetching Top Live News India
-      https://newsapi.org/v2/top-headlines?country=in&apiKey=f4bc54e7e76b48f19915f5424b1156cc
+      * https://newsapi.org/v2/top-headlines?country=in&apiKey=f4bc54e7e76b48f19915f5424b1156cc
