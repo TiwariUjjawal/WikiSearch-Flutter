@@ -14,9 +14,7 @@ App has following features.
 
 Following API's are used.
   * Fetching Wikipedia articles
-      https://en.wikipedia.org/w/api.php?
-      action=query&format=json&prop=pageimages%7Cpageterms&generator=prefixsearch&redirects=1&formatversion=2&piprop=thumbnail&
-      pithumbsize=50&pilimit=10&wbptterms=description&gpslimit=$10&gpssearch=$albert&gpsoffset=0
+      https://en.wikipedia.org/w/api.php?action=query&format=json&prop=pageimages%7Cpageterms&generator=prefixsearch&redirects=1&formatversion=2&piprop=thumbnail&pithumbsize=50&pilimit=10&wbptterms=description&gpslimit=$10&gpssearch=$albert&gpsoffset=0
       
   * Fetching wikipedia article page using pageId
       https://en.wikipedia.org/w/api.php?
