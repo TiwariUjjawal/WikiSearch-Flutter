@@ -8,7 +8,7 @@ A Flutter mobile application which provides:
   *  Top News in India.
   
 ## Home Screens.
-[![Simulator-Screen-Shot-i-Phone-12-Pro-Max-2021-08-28-at-16-15-19.png](https://i.postimg.cc/T1cpMygT/Simulator-Screen-Shot-i-Phone-12-Pro-Max-2021-08-28-at-16-15-19.png)](https://postimg.cc/wR76Djwr) &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Simulator-Screen-Shot-i-Phone-12-Pro-Max-2021-08-28-at-16-15-45.png](https://i.postimg.cc/GhqHXybQ/Simulator-Screen-Shot-i-Phone-12-Pro-Max-2021-08-28-at-16-15-45.png)](https://postimg.cc/4mHfdn77) 
+[![Simulator-Screen-Shot-i-Phone-12-Pro-Max-2021-08-28-at-16-15-19.png](https://i.postimg.cc/T1cpMygT/Simulator-Screen-Shot-i-Phone-12-Pro-Max-2021-08-28-at-16-15-19.png)](https://postimg.cc/wR76Djwr) &nbsp;&nbsp;&nbsp;&nbsp;[![Simulator-Screen-Shot-i-Phone-12-Pro-Max-2021-08-28-at-16-15-45.png](https://i.postimg.cc/GhqHXybQ/Simulator-Screen-Shot-i-Phone-12-Pro-Max-2021-08-28-at-16-15-45.png)](https://postimg.cc/4mHfdn77) 
      
 ## Wikipedia Search     
 [![Simulator-Screen-Shot-i-Phone-12-Pro-Max-2021-08-28-at-16-16-07.png](https://i.postimg.cc/SxPjhb2Y/Simulator-Screen-Shot-i-Phone-12-Pro-Max-2021-08-28-at-16-16-07.png)](https://postimg.cc/BjxJTyCJ) 
@@ -26,7 +26,7 @@ App has following features.
   * User can delete the visited history.
 
 ## Offline Pages/ Better offline experience
-[![Simulator-Screen-Shot-i-Phone-12-Pro-Max-2021-08-28-at-16-25-54.png](https://i.postimg.cc/rFCY3qHg/Simulator-Screen-Shot-i-Phone-12-Pro-Max-2021-08-28-at-16-25-54.png)](https://postimg.cc/qzqLCH4C) &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Simulator-Screen-Shot-i-Phone-12-Pro-Max-2021-08-28-at-16-26-24.png](https://i.postimg.cc/wB3f1Ljb/Simulator-Screen-Shot-i-Phone-12-Pro-Max-2021-08-28-at-16-26-24.png)](https://postimg.cc/4KkbMKtz)
+[![Simulator-Screen-Shot-i-Phone-12-Pro-Max-2021-08-28-at-16-25-54.png](https://i.postimg.cc/rFCY3qHg/Simulator-Screen-Shot-i-Phone-12-Pro-Max-2021-08-28-at-16-25-54.png)](https://postimg.cc/qzqLCH4C) &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Simulator-Screen-Shot-i-Phone-12-Pro-Max-2021-08-28-at-16-26-24.png](https://i.postimg.cc/wB3f1Ljb/Simulator-Screen-Shot-i-Phone-12-Pro-Max-2021-08-28-at-16-26-24.png)](https://postimg.cc/4KkbMKtz)
 
 
 
