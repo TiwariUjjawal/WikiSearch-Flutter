@@ -2,8 +2,19 @@
 
 A Flutter mobile application which provides:
   *  Wikipedia Search.
+
+
+  [![Simulator-Screen-Shot-i-Phone-12-Pro-Max-2021-08-28-at-16-16-07.png](https://i.postimg.cc/SxPjhb2Y/Simulator-Screen-Shot-i-Phone-12-Pro-Max-2021-08-28-at-16-16-07.png)](https://postimg.cc/BjxJTyCJ)
+
   *  Random Wikipedia Articles.
+   
+   [![Simulator-Screen-Shot-i-Phone-12-Pro-Max-2021-08-28-at-16-15-45.png](https://i.postimg.cc/GhqHXybQ/Simulator-Screen-Shot-i-Phone-12-Pro-Max-2021-08-28-at-16-15-45.png)](https://postimg.cc/4mHfdn77)
+   
+   
   *  Top News in India.
+
+
+[![Simulator-Screen-Shot-i-Phone-12-Pro-Max-2021-08-28-at-16-15-19.png](https://i.postimg.cc/T1cpMygT/Simulator-Screen-Shot-i-Phone-12-Pro-Max-2021-08-28-at-16-15-19.png)](https://postimg.cc/wR76Djwr)
 
 App has following features.
   * Once user search a query, All the Search results related to query are cached.
@@ -11,6 +22,11 @@ App has following features.
   * Summary can be deleted also.
   * Recent visited page history is maintained.
   * User can delete the visited history.
+
+
+
+
+
 
 Following API's are used.
   * Fetching Wikipedia articles
